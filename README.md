@@ -1,10 +1,14 @@
 # News App
-a news app, built with ReactJS, utilizing the NYTimes API (https://developer.nytimes.com/)
+a news app, built with ReactJS, utilizing the [NYTimes API](https://developer.nytimes.com/)
 
 Technologies used
 - React JS: A JavaScript library for building user interfaces
 - Axios: promise-based HTTP client
 - Material-UI: UI framework for React using Google’s Material Design
+
+Before using, [create a new app in NYTimes website](https://developer.nytimes.com/my-apps/new-app), get the API key, and then create a copy of `.env.sample` to `.env` and paste the API key there.
+
+---
 
 # Getting Started with Create React App
 
